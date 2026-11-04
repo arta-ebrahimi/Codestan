@@ -54,7 +54,7 @@
 
 | Platform | Link |
 |:---:|:---|
-| 🌐 Website | Coming Soon |
+| 🌐 Website | codestanapp.ir |
 | 💬 Telegram | [@IM_Artae](https://t.me/IM_Artae) |
 | 💻 GitHub Repository | [Codestan](https://github.com/arta-ebrahimi/Codestan) |
 | 👨‍💻 Developer | [Arta Ebrahimi](https://github.com/arta-ebrahimi) |
